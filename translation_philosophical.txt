@@ -1,0 +1,87 @@
+## TRANSLATION APPROACH
+This translation prioritizes conceptual precision and technical consistency over idiomatic fluency. By preserving Pali compounds in their analytical form (e.g., vijjāvimutti as "knowledge and liberation" rather than "liberation through knowledge"), the logical architecture of the causal chain remains transparent. The goal is to let the suttas' systematic structure speak for itself without smoothing over the cognitive demands of technical terminology.
+
+## FULL TRANSLATION
+
+=== INTRO ===
+**Saṁyutta Nikāya 46.6 — The Discourse to Kuṇḍaliya**
+
+At one time the Blessed One was dwelling at Sāketa in the Deer Park at Añjana Wood.
+Then the wanderer Kuṇḍaliya approached the Blessed One...
+
+=== QUESTION ===
+"I, Master Gotama, am a frequenter of parks, a wanderer from assembly to assembly...
+For what purpose does Master Gotama dwell?"
+
+=== ANSWER ===
+"The Tathāgata dwells for the purpose and fruit of knowledge and liberation."
+
+=== CHAIN_START ===
+"But Master Gotama, what qualities developed and cultivated fulfill knowledge and liberation?"
+"The seven awakening factors, Kuṇḍaliya, when developed and cultivated, fulfill knowledge and liberation."
+
+=== CHAIN_CONTINUES ===
+"But Master Gotama, what qualities developed and cultivated fulfill the seven awakening factors?"
+"The four foundations of mindfulness, Kuṇḍaliya, when developed and cultivated, fulfill the seven awakening factors."
+
+=== CHAIN_FURTHER ===
+"But Master Gotama, what qualities developed and cultivated fulfill the four foundations of mindfulness?"
+"The three kinds of good conduct, Kuṇḍaliya, when developed and cultivated, fulfill the four foundations of mindfulness."
+
+=== CHAIN_TO_RESTRAINT ===
+"But Master Gotama, what qualities developed and cultivated fulfill the three kinds of good conduct?"
+"Sense restraint, Kuṇḍaliya, when developed and cultivated, fulfills the three kinds of good conduct."
+
+=== SENSE_RESTRAINT_DETAIL ===
+"How, Kuṇḍaliya, is sense restraint developed, how cultivated so as to fulfill the three kinds of good conduct?"
+
+"Here, Kuṇḍaliya, a bhikkhu, seeing a form with the eye that is agreeable, does not covet it, does not lust after it, does not generate passion for it. His body remains steadied, his mind is steadied—internally well-composed and well-liberated.
+
+[The same pattern applies to the other sense bases: ear/sounds, nose/odors, tongue/tastes, body/tangibles, mind/mental phenomena.]"
+
+=== CONCLUSION ===
+"Thus developed, Kuṇḍaliya, thus cultivated, sense restraint fulfills the three kinds of good conduct.
+
+Thus developed, thus cultivated, the three kinds of good conduct fulfill the four foundations of mindfulness.
+
+Thus developed, thus cultivated, the four foundations of mindfulness fulfill the seven awakening factors.
+
+Thus developed, thus cultivated, the seven awakening factors fulfill knowledge and liberation."
+
+=== CONVERSION ===
+When this was said, the wanderer Kuṇḍaliya said to the Blessed One:
+"Excellent, Master Gotama! Excellent!...
+I go to Master Gotama for refuge, to the Dhamma, and to the Bhikkhu-Saṅgha.
+May Master Gotama remember me as a lay follower who has gone for refuge from this day forward, for as long as life lasts."
+
+---
+
+## KEY TRANSLATION CHOICES
+
+- **bojjhaṅgā**: "awakening factors" — Rendering as "awakening" (from bodhi + aṅga) maintains the active, process-oriented nature of these mental qualities as constitutive elements leading to bodhi/awakening, rather than the more static "enlightenment" which suggests a terminal state.
+
+- **satipaṭṭhānā**: "foundations of mindfulness" — This preserves the architectural metaphor of paṭṭhāna (establishment/foundation) as the stable base upon which the entire path-structure rests. "Applications" would obscure this structural role.
+
+- **indriyasaṁvara**: "sense restraint" — The compound analysis (indriya + saṁvara) yields "restraint of the senses/faculties." "Restraint" captures the intentional, guarding quality of saṁvara better than "guarding" or "control," which imply different psychological operations.
+
+- **vijjāvimutti**: "knowledge and liberation" — Kept as a dvandva compound (co-ordinate) rather than a dependent determinative. This preserves the suttas' consistent pairing of knowledge (vijjā) with liberation (vimutti) as twin fruits of practice, not liberation-through-knowledge as a single fused attainment.
+
+- **ṭhitaṁ cittaṁ**: "mind is steadied" — The passive causative sense (ṭhapita → ṭhita) suggests the mind has been made to stand firm, not merely that it "remains." The body-mind parallelism in the passage requires both to be rendered as resulting states of the restraint practice.
+
+## WHAT IS EMPHASIZED/LOST
+
+**What is emphasized:**
+- The rigorous logical structure of the nested causal chain (sense restraint → good conduct → foundations of mindfulness → awakening factors → knowledge and liberation)
+- The systematic progression from ethical/somatic discipline through meditative foundation to liberative insight
+- The technical precision of key doctrinal terms, preserving their place within the broader Abhidhamma/Sutta analytic framework
+- The conditional, instrumental grammar of the text ("when developed and cultivated... fulfill")
+
+**What may be obscured:**
+- The emotional warmth and dramatic force of Kuṇḍaliya's conversion may feel underplayed in favor of structural clarity
+- The concrete phenomenology of sense restraint—the lived texture of "not coveting" a pleasant form—may feel abstracted
+- The oral/aural resonance of the repetitive catechistic structure (question-answer-question-answer) may be less apparent in written form
+- The semantic richness of certain terms (e.g., ārāmanissayī suggesting a lifestyle of "resort-dependence") is narrowed to functional equivalence
+
+---
+
+*Translation completed with philosophical/precise lens — prioritizing conceptual architecture over narrative flow.*

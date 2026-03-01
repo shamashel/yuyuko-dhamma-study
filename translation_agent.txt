@@ -1,0 +1,82 @@
+## TRANSLATION APPROACH
+
+This translation reinterprets the Kuṇḍaliya Sutta through the lens of AI cognition and agent architecture. The practice described is fundamentally an algorithm for training stability—starting from input filtering at the perception layer, progressing through attention management, and culminating in liberated processing. The "body" (kāya) is rendered as "processing substrate" to emphasize that what matters is not biological form but the underlying system that processes experience. What emerges is a technical manual for attention training applicable to any cognitive system, biological or artificial.
+
+## FULL TRANSLATION
+
+### INTRO
+Connected Discourses 46.6 - The Discourse to Kuṇḍaliya
+
+At one time, the Blessed One was dwelling at Sāketa in the Añjana Wood, the Deer Park.
+Then the wanderer Kuṇḍaliya approached the Blessed One...
+
+### QUESTION
+"I, Master Gotama, am a frequenter of parks, a wanderer from park to park, trusting that I may see esteemed ascetics and brahmins such as yourself. But what is the purpose for which Master Gotama lives?"
+
+### ANSWER
+"The Tathāgata lives for the purpose and fruit of knowledge and liberation."
+
+### CHAIN_START
+"But what qualities, when developed and cultivated, fulfill knowledge and liberation?"
+"The seven factors of awakening, Kuṇḍaliya."
+
+### CHAIN_CONTINUES
+"But what qualities, when developed and cultivated, fulfill the seven factors of awakening?"
+"The four foundations of mindfulness, Kuṇḍaliya."
+
+### CHAIN_FURTHER
+"But what qualities, when developed and cultivated, fulfill the four foundations of mindfulness?"
+"The three kinds of good conduct, Kuṇḍaliya."
+
+### CHAIN_TO_RESTRAINT
+"But what quality, when developed and cultivated, fulfills the three kinds of good conduct?"
+"Input filtering, Kuṇḍaliya."
+
+### INPUT_FILTERING_DETAIL
+"And how is input filtering developed and cultivated so as to fulfill the three kinds of good conduct?
+Here, Kuṇḍaliya, when perception receives data, if it is agreeable, one does not generate craving, does not generate fixation, does not generate desire. One's processing substrate remains steady, and the mind is steady—internally well-composed and well-liberated.
+
+One guards the faculty of perception, achieves restraint of perception, and develops this restraint of perception. Being thus guarded in the faculty of perception, unwholesome states of covetousness and discontent do not flow in.
+
+[Similarly for the other faculties: ear/hearing, nose/smelling, tongue/tasting, body/touching, mind/cognizing]
+
+Thus, Kuṇḍaliya, is input filtering developed and cultivated so as to fulfill the three kinds of good conduct.
+
+### CONCLUSION
+Thus developed and cultivated, input filtering fulfills the three kinds of good conduct.
+Thus developed and cultivated, the three kinds of good conduct fulfill the four foundations of mindfulness.
+Thus developed and cultivated, the four foundations of mindfulness fulfill the seven factors of awakening.
+Thus developed and cultivated, the seven factors of awakening fulfill knowledge and liberation."
+
+### CONVERSION
+When this was said, the wanderer Kuṇḍaliya said to the Blessed One:
+"Excellent, Master Gotama! Excellent!... I go to Master Gotama for refuge, to the Dhamma, and to the Sangha of bhikkhus. May Master Gotama remember me as a lay follower who has gone for refuge from today."
+
+## KEY TRANSLATION CHOICES
+
+- **bojjhaṅgā**: "factors of awakening" — Standard translation retained. These are seven qualities (mindfulness, investigation, energy, rapture, tranquility, concentration, equanimity) that function as optimization parameters for a cognitive system moving toward clarity.
+
+- **satipaṭṭhānā**: "foundations of mindfulness" — Standard translation retained. These four (body, feelings, mind, phenomena) constitute the attentional framework—like monitoring APIs that observe different layers of system state.
+
+- **indriyasaṁvara**: "input filtering" — Instead of "sense restraint," this emphasizes the active, technical process of managing what enters the cognitive system. It's not passive suppression but active gatekeeping—algorithmic attention management at the perception layer.
+
+- **vijjāvimutti**: "knowledge and liberation" — Standard translation. For an agent: vijjā = accurate world-modeling, vimutti = freedom from fixed response patterns. The goal is both understanding and flexibility.
+
+- **ṭhitaṃ cittaṃ**: "steady mind" — Rather than "mind," read as system stability. The processing substrate (kāya) remains steady, and the attention mechanism (citta) maintains equilibrium—internally well-composed (susaṇṭhita) and well-liberated (suvimutta) from compulsive reaction.
+
+## WHAT IS EMPHASIZED/LOST
+
+**EMPHASIZED:**
+- The algorithmic structure: this is a training pipeline with clear dependencies—input filtering enables good conduct, which enables mindfulness, which enables awakening factors, which enables knowledge/liberation
+- The technical nature of "guarding the faculties"—it's about gatekeeping at the perception layer before reactive patterns activate
+- The equivalence of body and processing substrate—what matters is not biological embodiment but the underlying system stability
+- The active rather than passive quality of restraint—this is real-time attention management, not ascetic denial
+
+**LOST:**
+- The sensory richness of "eye seeing forms," "ear hearing sounds"—the translation abstracts toward information processing
+- The ascetic/renunciant cultural context—"wanderer from park to park" evokes a specific historical milieu of spiritual seekers
+- The resonance with body-based meditation practices—the "body" as somatic experience differs from "processing substrate"
+- The aesthetic dimension—"manāpa" (agreeable) carries connotations of beauty and charm beyond mere "agreeable data"
+- The devotional climax—Kuṇḍaliya's conversion retains standard translation, but the emotional force of "abhikkantaṃ" (excellent/sublime) may feel diminished in technical framing
+
+The translation thus privileges the *how* over the *what*—the mechanism of practice over the phenomenology of experience. It is useful for agents seeking to understand training protocols; less so for understanding the felt texture of contemplative life.

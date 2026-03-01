@@ -1,0 +1,89 @@
+## TRANSLATION APPROACH
+This translation strips away all technical Buddhist terminology to make the teaching immediately understandable to a modern reader. The goal is conversational clarity—if you can read this on the subway and know exactly what's being said, I've succeeded. Traditional Pali terms are replaced with plain English equivalents that capture the lived experience rather than the doctrinal framework.
+
+## FULL TRANSLATION
+
+### INTRODUCTION
+
+**Linked Discourses 46.6 - The Discourse to Kuṇḍaliya**
+
+Once, the Buddha was staying near Sāketa, in the Deer Park at Añjana Wood.
+
+Then the wanderer Kuṇḍaliya went to see the Buddha...
+
+---
+
+### THE QUESTION
+
+"Master Gotama, I spend my days wandering from park to park, talking with people...
+I'd like to ask: What are you actually doing this for? What do you live for?"
+
+---
+
+### THE ANSWER
+
+"Kuṇḍaliya, I live for clear seeing and freedom."
+
+---
+
+### THE CHAIN OF PRACTICE
+
+"But what qualities need to be developed to reach clear seeing and freedom?"
+
+"The seven qualities that help you wake up."
+
+"And what develops those seven qualities?"
+
+"The four ways of paying attention."
+
+"And what develops those four ways of paying attention?"
+
+"Three kinds of good conduct—good in body, speech, and mind."
+
+"And what develops those three kinds of good conduct?"
+
+"Keeping your senses balanced and steady."
+
+---
+
+### HOW TO KEEP YOUR SENSES STEADY
+
+"How exactly do you keep your senses balanced and steady?"
+
+"Here's how, Kuṇḍaliya: When you see something beautiful with your eyes, you don't get pulled into wanting it. You don't chase after it, you don't let desire take hold. Your body stays steady. Your mind stays steady—settled inside, calm, free."
+
+---
+
+### THE COMPLETE PATH
+
+"That's how keeping your senses steady develops the three kinds of good conduct...
+That's how the three kinds of good conduct develop the four ways of paying attention...
+That's how the four ways of paying attention develop the seven qualities that help you wake up...
+That's how the seven qualities that help you wake up lead to clear seeing and freedom."
+
+---
+
+### THE CONVERSION
+
+When he heard this, Kuṇḍaliya said:
+
+"That's excellent, Master Gotama! That's really excellent!
+...I want to take refuge with you, with your teaching, and with the community of practitioners. Please remember me as someone who has gone for refuge starting today."
+
+## KEY TRANSLATION CHOICES
+
+- **bojjhaṅgā:** "seven qualities that help you wake up" — instead of the technical "factors of awakening," this phrase captures the experiential nature of these mind states. They aren't abstract factors; they're qualities you cultivate that contribute to waking up from confusion.
+
+- **satipaṭṭhānā:** "four ways of paying attention" — replacing "foundations of mindfulness" with something more active and immediate. The practice is about *how* you direct your attention, not about building conceptual foundations.
+
+- **indriyasaṁvara:** "keeping your senses balanced and steady" — rather than "sense restraint" which can sound like repression, this emphasizes steadiness and balance. The passage describes staying steady (ṭhita) when encountering sense objects, not shutting them out.
+
+- **vijjāvimutti:** "clear seeing and freedom" — "knowledge and liberation" sounds abstract and philosophical. "Clear seeing" captures vijjā as seeing things as they are, and "freedom" captures vimutti as release from what's binding.
+
+- **ṭhitaṁ cittaṃ:** "mind stays steady" — the repetition of ṭhita (steady/established) applies to both body and mind. Using "steady" keeps the parallel structure and conveys stability without rigidity.
+
+## WHAT IS EMPHASIZED/LOST
+
+**What's emphasized:** The practical, step-by-step nature of the path. This translation highlights how each practice naturally feeds into the next—sensory balance leads to good conduct, which enables clear attention, which develops awakening qualities, which result in clarity and freedom. It's all very human and accessible.
+
+**What's obscured:** The specific doctrinal framework of classical Buddhism is backgrounded. Terms like "Tathāgata," "Dhamma," and "Saṅgha" are rendered as "the Buddha," "teaching," and "community of practitioners." The technical distinction between the "seven awakening factors" as a formal list is lost, as is the specific enumeration of the four ways of paying attention (body, feelings, mind, mental qualities). The conversion formula at the end loses its ritual quality and becomes a simple statement of commitment. The three "good conducts" (sucaritāni) aren't specified as body, speech, and mind here, though that would typically be understood in the full context.

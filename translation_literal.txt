@@ -1,0 +1,122 @@
+## TRANSLATION APPROACH
+This translation prioritizes strict grammatical fidelity to the Pali text, preserving original technical terminology in parentheses to avoid interpretive smoothing. Word order and syntactic structures are rendered as closely as possible to the source, even when this produces slightly less idiomatic English. The goal is to allow readers to trace the Pali linguistic logic directly.
+
+## FULL TRANSLATION
+
+**Saṁyutta Nikāya 46.6 - Kuṇḍaliyasutta**
+
+Ekaṁ samayaṁ bhagavā sākete viharati añjanavane migadāye.
+> At one time the Blessed One (bhagavā) was dwelling (viharati) at Sāketa in the Añjana Wood (añjanavane) in the Deer Park (migadāye).
+
+Atha kho kuṇḍaliyo paribbājako yena bhagavā tenupasaṅkami...
+> Then (atha kho) the wanderer (paribbājako) Kuṇḍaliya approached (tenupasaṅkami) the Blessed One (bhagavā) there (yena...tena)...
+
+---
+
+"ahamasmi, bho gotama, ārāmanissayī parisāvacaro...
+> "I (aham) am (asmi), Master (bho) Gotama, a park-resorter (ārāmanissayī), a park-wanderer (parisāvacaro)...
+
+'bhavaṁ pana gotamo kimānisaṁso viharatī'ti?"
+> 'What (kiṁ) fruit (ānisaṁso) does the Venerable (bhavaṁ) Gotama live (viharatī) for (pana)?'"
+
+---
+
+"Vijjāvimuttiphalānisaṁso kho, kuṇḍaliya, tathāgato viharatī"ti
+> "For the fruit (phala) and advantage (ānisaṁso) of knowledge (vijjā) and liberation (vimutti), Kuṇḍaliya, the Tathāgata lives (viharatī)," [he said].
+
+---
+
+"Katame pana, bho gotama, dhammā bhāvitā bahulīkatā vijjāvimuttiṁ paripūrentī"ti?
+> "What (katame) qualities (dhammā), developed (bhāvitā) and cultivated (bahulīkatā), fulfill (paripūrentī) knowledge and liberation (vijjāvimutti)?"
+
+"Satta kho, kuṇḍaliya, bojjhaṅgā bhāvitā bahulīkatā vijjāvimuttiṁ paripūrentī"ti.
+> "The seven (satta) awakening-factors (bojjhaṅgā), Kuṇḍaliya, [when] developed and cultivated, fulfill knowledge and liberation," [he said].
+
+---
+
+"Katame pana, bho gotama, dhammā bhāvitā bahulīkatā satta bojjhaṅge paripūrentī"ti?
+> "What qualities, developed and cultivated, fulfill (paripūrentī) the seven (satta) awakening-factors (bojjhaṅge)?"
+
+"Cattāro kho, kuṇḍaliya, satipaṭṭhānā bhāvitā bahulīkatā satta bojjhaṅge paripūrentī"ti.
+> "The four (cattāro) establishments of mindfulness (satipaṭṭhānā), Kuṇḍaliya, [when] developed and cultivated, fulfill the seven awakening-factors," [he said].
+
+---
+
+"Katame pana, bho gotama, dhammā bhāvitā, bahulīkatā cattāro satipaṭṭhāne paripūrentī"ti?
+> "What qualities, developed and cultivated, fulfill the four establishments of mindfulness (cattāro satipaṭṭhāne)?"
+
+"Tīṇi kho, kuṇḍaliya, sucaritāni bhāvitāni bahulīkatāni cattāro satipaṭṭhāne paripūrentī"ti.
+> "The three (tīṇi) good conducts (sucaritāni), Kuṇḍaliya, [when] developed and cultivated, fulfill the four establishments of mindfulness," [he said].
+
+---
+
+"Katame pana, bho gotama, dhammā bhāvitā bahulīkatā tīṇi sucaritāni paripūrentī"ti?
+> "What qualities, developed and cultivated, fulfill the three good conducts (tīṇi sucaritāni)?"
+
+"Indriyasaṁvaro kho, kuṇḍaliya, bhāvito bahulīkato tīṇi sucaritāni paripūretīti.
+> "Sense-restraint (indriyasaṁvaro), Kuṇḍaliya, [when] developed (bhāvito) and cultivated (bahulīkato), fulfills the three good conducts," [he said].
+
+---
+
+Kathaṁ bhāvito ca, kuṇḍaliya, indriyasaṁvaro kathaṁ bahulīkato tīṇi sucaritāni paripūretīti?
+> "How (kathaṁ) developed, and how cultivated, sense-restraint fulfills the three good conducts?"
+
+Idha, kuṇḍaliya, bhikkhu cakkhunā rūpaṁ disvā manāpaṁ nābhijjhati nābhihaṁsati, na rāgaṁ janeti.
+> Here (idha), Kuṇḍaliya, a bhikkhu, having seen (disvā) a form (rūpaṁ) with the eye (cakkhunā), if it is pleasing (manāpaṁ) does not covet (nābhijjhati), does not lust after (nābhihaṁsati), does not generate (janeti) passion (rāgaṁ).
+
+Tassa ṭhito ca kāyo hoti, ṭhitaṁ cittaṁ ajjhattaṁ susaṇṭhitaṁ suvimuttaṁ.
+> For him (tassa) the body (kāyo) is (hoti) steadied (ṭhito ca), [and] the mind (cittaṁ) is steadied (ṭhitaṁ), internally (ajjhattaṁ) well-composed (susaṇṭhitaṁ) [and] well-liberated (suvimuttaṁ).
+
+---
+
+Evaṁ bhāvito kho, kuṇḍaliya, indriyasaṁvaro evaṁ bahulīkato tīṇi sucaritāni paripūreti...
+> "Thus (evaṁ) developed, Kuṇḍaliya, sense-restraint, thus cultivated, fulfills the three good conducts...
+
+Evaṁ bhāvitāni kho, kuṇḍaliya, tīṇi sucaritāni evaṁ bahulīkatāni cattāro satipaṭṭhāne paripūrenti...
+> Thus developed, Kuṇḍaliya, the three good conducts, thus cultivated, fulfill the four establishments of mindfulness...
+
+Evaṁ bhāvitā kho, kuṇḍaliya, cattāro satipaṭṭhānā evaṁ bahulīkatā satta bojjhaṅge paripūrenti...
+> Thus developed, Kuṇḍaliya, the four establishments of mindfulness, thus cultivated, fulfill the seven awakening-factors...
+
+Evaṁ bhāvitā kho, kuṇḍaliya, satta bojjhaṅgā evaṁ bahulīkatā vijjāvimuttiṁ paripūrentī"ti.
+> Thus developed, Kuṇḍaliya, the seven awakening-factors, thus cultivated, fulfill knowledge and liberation," [he said].
+
+---
+
+Evaṁ vutte, kuṇḍaliyo paribbājako bhagavantaṁ etadavoca:
+> Having been spoken to (vutte) thus (evaṁ), the wanderer Kuṇḍaliya said this (etadavoca) to the Blessed One (bhagavantaṁ):
+
+"abhikkantaṁ, bho gotama, abhikkantaṁ, bho gotama...
+> "Excellent (abhikkantaṁ), Master Gotama! Excellent, Master Gotama!...
+
+Esāhaṁ bhavantaṁ gotamaṁ saraṇaṁ gacchāmi dhammañca bhikkhusaṅghañca.
+> I (esāhaṁ = eṣa ahaṁ) go (gacchāmi) to the Venerable (bhavantaṁ) Gotama for refuge (saraṇaṁ), and (ca) to the Dhamma (dhammañca), and to the Sangha of bhikkhus (bhikkhusaṅghañca).
+
+Upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan"ti.
+> May the Venerable (bhavaṁ) Gotama remember (dhāretu) me (maṁ) as a lay-follower (upāsakaṁ), gone for refuge (saraṇaṁ gataṁ) from today (ajjatagge), carried by life (pāṇupetaṁ)."
+
+## KEY TRANSLATION CHOICES
+
+- **bojjhaṅgā**: "awakening-factors" — Preserving the literal compound of bodhi (awakening) + aṅga (limb/factor/part). Not translated as "enlightenment factors" to avoid the connotation of sudden illumination; "awakening" maintains the gradual, process-oriented sense of the term in early Buddhist texts.
+
+- **satipaṭṭhānā**: "establishments of mindfulness" — Rendering sati (mindfulness/remembering) + upaṭṭhāna (establishment/setting up) literally. The term refers to the foundational "setting up" or "establishing" of awareness, not merely passive "mindfulness."
+
+- **indriyasaṁvara**: "sense-restraint" — A literal rendering of indriya (faculty/sense) + saṁvara (restraint/guarding). The compound emphasizes active guarding of the sense doors, not just moderation or discipline in the abstract.
+
+- **vijjāvimutti**: "knowledge and liberation" — Preserving the distinct terms vijjā (knowledge/seeing) and vimutti (liberation/release) without collapsing them into a single concept. The compound suggests two aspects of the goal: cognitive insight and freedom from bondage.
+
+- **ṭhitaṁ cittaṁ**: "steadied mind" — As specifically instructed, rendering the past participle ṭhita (stood/placed/fixed) as "steadied" rather than "stable" or "composed." This preserves the active sense of the mind being brought to a stand, established in position, rather than a static quality of stability.
+
+## WHAT IS EMPHASIZED/LOST
+
+**What is emphasized:**
+- The architectural precision of the causal chain, where each element is shown to depend on the preceding through exact grammatical parallelism (bhāvita/bahulīkata + paripūreti constructions)
+- The technical vocabulary of early Buddhism, left partially untranslated to preserve conceptual boundaries that English terms might blur
+- The repetitive, formulaic structure of the text, which in Pali serves a mnemonic and meditative function
+- The distinction between the two types of development: bhāvita (developed/made to become) and bahulīkata (cultivated/made much of)
+
+**What may be obscured:**
+- The natural flow and rhetorical persuasiveness of the original dialogue may be diminished by literal rendering
+- Nuances of register—the Buddha's speech to a wanderer may have carried colloquial or persuasive elements lost in strict literalism
+- The immediate comprehensibility for readers unfamiliar with Pali technical terms
+- The experiential dimension of terms like "mindfulness" (sati) and "liberation" (vimutti), which in practice carry affective and somatic connotations beyond their literal definitions

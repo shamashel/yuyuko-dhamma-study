@@ -1,0 +1,115 @@
+## TRANSLATION APPROACH
+
+This translation adheres closely to the Theravada commentarial tradition as systematized in the Visuddhimagga, employing established English terminology from traditional lineages such as the Pali Text Society and Buddhist Publication Society. The rendering prioritizes doctrinal precision and consistency with classical interpretations, preserving technical terms in their traditional forms (e.g., "bhikkhu," "Tathāgata") rather than modernizing them.
+
+---
+
+## FULL TRANSLATION
+
+**Saṁyutta Nikāya 46.6 - The Discourse to Kuṇḍaliya**
+
+### INTRODUCTION
+
+Thus have I heard. At one time the Blessed One was dwelling at Sāketa in the Deer Park at Añjana Wood. Then the wanderer Kuṇḍaliya approached the Blessed One and, having approached, exchanged greetings with him. When this courteous and amiable exchange was concluded, he sat down to one side and addressed the Blessed One:
+
+### QUESTION
+
+"I, Master Gotama, am a frequenter of parks, a wanderer from park to park, enjoying the various parks. Here I see certain ascetics and brahmins who teach a doctrine of purity through park-dwelling. They say: 'One who lives in parks becomes pure.' But what is the purpose, Master Gotama, for which the ascetic Gotama lives?"
+
+### ANSWER
+
+"The Tathāgata, Kuṇḍaliya, lives for the purpose and fruit of knowledge and liberation."
+
+### THE PROGRESSIVE CHAIN
+
+**The Seven Factors of Enlightenment**
+
+"But, Master Gotama, what states, when developed and cultivated, fulfill knowledge and liberation?"
+
+"The seven factors of enlightenment, Kuṇḍaliya, when developed and cultivated, fulfill knowledge and liberation."
+
+**The Four Foundations of Mindfulness**
+
+"But, Master Gotama, what states, when developed and cultivated, fulfill the seven factors of enlightenment?"
+
+"The four foundations of mindfulness, Kuṇḍaliya, when developed and cultivated, fulfill the seven factors of enlightenment."
+
+**The Three Kinds of Good Conduct**
+
+"But, Master Gotama, what states, when developed and cultivated, fulfill the four foundations of mindfulness?"
+
+"The three kinds of good conduct, Kuṇḍaliya, when developed and cultivated, fulfill the four foundations of mindfulness."
+
+**Sense Restraint**
+
+"But, Master Gotama, what state, when developed and cultivated, fulfills the three kinds of good conduct?"
+
+"Sense restraint, Kuṇḍaliya, when developed and cultivated, fulfills the three kinds of good conduct."
+
+### SENSE RESTRAINT IN DETAIL
+
+"But how, Master Gotama, is sense restraint developed and cultivated so as to fulfill the three kinds of good conduct?"
+
+"Here, Kuṇḍaliya, a bhikkhu, having seen a form with the eye, if it is pleasing does not long for it, does not lust after it, does not generate desire for it. His body remains steady, his mind is steady, internally well-composed and well-liberated.
+
+"So too, having heard a sound with the ear, if it is pleasing, he does not long for it, does not lust after it, does not generate desire for it. His body remains steady, his mind is steady, internally well-composed and well-liberated.
+
+"So too, having smelled an odor with the nose, if it is pleasing, he does not long for it, does not lust after it, does not generate desire for it. His body remains steady, his mind is steady, internally well-composed and well-liberated.
+
+"So too, having tasted a flavor with the tongue, if it is pleasing, he does not long for it, does not lust after it, does not generate desire for it. His body remains steady, his mind is steady, internally well-composed and well-liberated.
+
+"So too, having felt a tactile object with the body, if it is pleasing, he does not long for it, does not lust after it, does not generate desire for it. His body remains steady, his mind is steady, internally well-composed and well-liberated.
+
+"So too, having cognized a mental phenomenon with the mind, if it is pleasing, he does not long for it, does not lust after it, does not generate desire for it. His body remains steady, his mind is steady, internally well-composed and well-liberated.
+
+"It is in this way, Kuṇḍaliya, that sense restraint is developed and cultivated so as to fulfill the three kinds of good conduct.
+
+"It is in this way, Kuṇḍaliya, that the three kinds of good conduct, when developed and cultivated, fulfill the four foundations of mindfulness.
+
+"It is in this way, Kuṇḍaliya, that the four foundations of mindfulness, when developed and cultivated, fulfill the seven factors of enlightenment.
+
+"It is in this way, Kuṇḍaliya, that the seven factors of enlightenment, when developed and cultivated, fulfill knowledge and liberation."
+
+### CONVERSION
+
+When this was said, the wanderer Kuṇḍaliya said to the Blessed One: "Excellent, Master Gotama! Excellent, Master Gotama! Just as one might set upright what has been overturned, or reveal what was hidden, or point out the path to one who is lost, or bring a lamp into the darkness so that those with eyes might see forms, even so has the Dhamma been made clear by Master Gotama in many ways. I go to Master Gotama for refuge, to the Dhamma, and to the Sangha of bhikkhus. May Master Gotama remember me as a lay follower who has gone for refuge from today until the end of life."
+
+---
+
+## KEY TRANSLATION CHOICES
+
+- **bojjhaṅgā**: "seven factors of enlightenment" — Following the explicit instruction and the classical Theravada rendering. The term combines bodhi (awakening/enlightenment) + aṅga (factor/limb), and in the commentarial tradition these are understood as the seven limbs that constitute the path to full awakening: mindfulness, investigation of states, energy, rapture, tranquility, concentration, and equanimity.
+
+- **satipaṭṭhānā**: "four foundations of mindfulness" — As instructed, this preserves the traditional PTS and BPS rendering. The commentaries understand these as the four bases (paṭṭhāna) for establishing (upatthāna) mindfulness (sati), not merely "settings-up" or "applications."
+
+- **indriyasaṁvara**: "sense restraint" — The traditional translation preserving the technical meaning of guarding (saṁvara) the sense faculties (indriya). The Visuddhimagga treats this as the essential foundation for purification of conduct.
+
+- **vijjāvimutti**: "knowledge and liberation" — Following the standard rendering where vijjā refers to the threefold knowledge (of past lives, divine eye, and destruction of taints) and vimutti to liberation from defilements. The commentaries emphasize that vijjā destroys the taints of speculative views and vimutti destroys the taints of bhava and sensuality.
+
+- **ṭhitaṁ cittaṁ**: "steady mind" or "mind is steady" — Retaining the classical sense of stability and composure. The commentary understands this as the mind being unwavering (appakampana) and established in its object without distraction, a prerequisite for the higher developments that follow.
+
+- **sucarita**: "good conduct" — Rather than "good behavior" or "right action," this preserves the technical classification of bodily, verbal, and mental good conduct that serves as the foundation for the path.
+
+- **tathāgata**: "Tathāgata" — Untranslated, following Theravada convention, as the term carries multiple layers of meaning (one who has thus gone, one who has thus come) that the Buddha applied to himself.
+
+- **bhikkhu**: "bhikkhu" — Preserved rather than translated as "monk," maintaining the technical precision of the fully ordained Sangha member who practices this specific training.
+
+---
+
+## WHAT IS EMPHASIZED/LOST
+
+**Emphasized:**
+
+This translation foregrounds the hierarchical, systematic structure of the path as understood in the Theravada commentarial tradition. The progressive cultivation (sense restraint → good conduct → foundations of mindfulness → enlightenment factors → knowledge and liberation) reflects the gradual training (ānupubbasikkhā) emphasized in the Visuddhimagga. The preservation of technical terms (bhikkhu, Tathāgata, bojjhaṅga) maintains the sense of a specialized, disciplined spiritual technology.
+
+The traditional rendering of "seven factors of enlightenment" and "four foundations of mindfulness" emphasizes their status as established doctrinal categories within the Theravada system. The description of sense restraint highlights the classical concern with guarding the doors of the senses—a central theme in Visuddhimagga meditation theory.
+
+**What may be obscured:**
+
+The fluid, conversational quality of the original Pali may be diminished by the formal, doctrinal register. The repetitive chain structure (katame pana...), while preserved, may sound more ritualistic than exploratory to modern ears. The personal encounter between the Buddha and Kuṇḍaliya—a wanderer genuinely seeking understanding—is somewhat formalized.
+
+The psychological immediacy of "ṭhitaṁ cittaṁ" (the mind that doesn't waver when confronted with sense pleasure) may be less vivid than more colloquial renderings might convey. The traditional "well-composed and well-liberated" preserves the commentarial glosses (susaṇṭhita = well-established, suvimutta = liberated from hindrances) but may feel less accessible than simpler language.
+
+Some nuances of the word "paripūrenti" (fulfill/complete/fill up) are flattened—the sense of each level "filling to completion" the previous, like water filling a vessel, is present but not emphasized. The organic, developmental quality of the path (each factor naturally maturing into the next) may be less apparent than in translations that use "lead to" or "mature into."
+
+The conversion formula at the end follows the standard traditional rendering, which may sound archaic to contemporary readers, but preserves the formal structure of going for refuge that has defined lay affiliation in Theravada Buddhism for millennia.
