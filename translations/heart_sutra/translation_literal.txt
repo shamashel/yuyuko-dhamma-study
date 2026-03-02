@@ -1,0 +1,137 @@
+## TRANSLATION APPROACH
+
+This translation prioritizes terminological precision and grammatical fidelity over English fluency. Key Sanskrit technical terms (prajñāpāramitā, śūnyatā, skandha, dharmas) are retained in transliteration with explanatory glosses, as they carry philosophical weight that English approximations flatten. The chain of negations (na X na Y) is rendered with parallel structure to preserve the sutra's logical architecture—these are not poetic flourishes but systematic deconstructions of substantialist categories.
+
+---
+
+## FULL TRANSLATION
+
+### TITLE
+**Prajñāpāramitāhṛdayasūtra**
+*The Sūtra of the Heart (Hṛdaya) of the Perfection of Wisdom (Prajñāpāramitā)*
+
+---
+
+### AVALOKITEŚVARA
+
+Āryāvalokiteśvaro bodhisattvo gambhīrāyāṃ prajñāpāramitāyāṃ caryāṃ caramāṇo vyavalokayati sma: pañca skandhāḥ, tāṃś ca svabhāvaśūnyān paśyati sma.
+
+The Noble Avalokiteśvara, the bodhisattva, moving (caramāṇaḥ) in the deep (gambhīrā) course (caryā) of prajñāpāramitā, looked down (vyavalokayati): [he] saw the five skandhas, and saw them as empty of own-nature (svabhāva-śūnya).
+
+*Note: vyavalokayati—literally "looked down upon," carries the sense of discerning insight; svabhāva—"own-nature" or "inherent existence," the target of Madhyamaka critique.*
+
+---
+
+### FORM-EMPTINESS
+
+Rūpaṃ śūnyatā, śūnyataiva rūpam. Rūpān na pṛthak śūnyatā, śūnyatāyā na pṛthag rūpam. Yad rūpaṃ sā śūnyatā, yā śūnyatā tad rūpam.
+
+Form (rūpa) is emptiness (śūnyatā); emptiness itself (eva) is form. Form is not separate (na pṛthak) from emptiness; emptiness is not separate from form. That which is form— that [is] emptiness; that which is emptiness— that [is] form.
+
+*Note: The grammatical construction Yad X sā Y ("That which is X, that is Y") asserts strict identity, not mere similarity or interdependence.*
+
+---
+
+### FIVE SKANDHAS
+
+Evam eva vedanāsaṃjñāsaṃskāravijñānāni.
+
+Thus indeed (evam eva): sensation (vedanā), perception (saṃjñā), formations (saṃskāra), and consciousness (vijñāna).
+
+---
+
+### ŚĀRIPUTRA
+
+Iha, Śāriputra, sarvadharmaḥ śūnyatālakṣaṇā: anutpannā aniruddhā, amalā avimalā, anūnā aparipūrṇāḥ.
+
+Here, Śāriputra, all dharmas (sarvadharmaḥ) are marked with (lakṣaṇa) emptiness: not arisen (anutpanna), not ceased (aniruddha), not defiled (amala), not pure (avimala), not deficient (anūna), not complete (aparipūrṇa).
+
+---
+
+### THE GREAT NEGATION
+
+Tasmāc chāriputra śūnyatāyāṃ na rūpaṃ na vedanā na saṃjñā na saṃskārāḥ na vijñānam. Na cakṣuḥśrotraghrāṇajihvākāyamanāṃsi. Na rūpaśabdagandharasaspraṣṭavyadharmāḥ. Na cakṣurdhātur yāvan na manodhātuḥ.
+
+Therefore, Śāriputra, in emptiness: no form, no sensation, no perception, no formations, no consciousness. No eye, no ear, no nose, no tongue, no body, no mind. No form[-object], no sound, no smell, no taste, no touch, no dharmas. No eye-dhātu, extending until (yāvan) no mind-dhātu.
+
+*Note: dhātu here denotes the sensory bases (āyatanas) and elements in the Abhidharma schema. The pattern na X na Y... constructs a systematic apoha (exclusion) of all categories of existence.*
+
+Na vidyā nāvidyā na vidyākṣayo nāvidyākṣayo yāvan na jarāmarṇaṃ na jarāmarṇakṣayo.
+
+No knowledge (vidyā), no non-knowledge (avidyā); no cessation of knowledge, no cessation of non-knowledge; extending until no old-age-and-death (jarā-maraṇa), no cessation of old-age-and-death.
+
+*Note: This negates both the twelve links of dependent origination (pratītyasamutpāda) and their cessation.*
+
+Na duḥkhasamudayanirodhamārgā. No jñānaṃ na prāptir na aprāptiḥ.
+
+No suffering, no arising, no cessation, no path. No jñāna (wisdom/knowledge), no prāpti (attainment), no aprāpti (non-attainment).
+
+---
+
+### NO-ATTAINDER
+
+Tasmāc chāriputra aprāptitvād bodhisattvoḥ prajñāpāramitām āśritya viharaty acittāvaraṇaḥ.
+
+Therefore, Śāriputra, because of non-attainment-state (aprāptitvāt), the bodhisattva, having relied upon (āśritya) prajñāpāramitā, dwells (viharati) with mind-unobstructed (acitta-āvaraṇa).
+
+Cittāvaraṇanāstitvād atrastro vipartitakleśātikrānto nirvāṇaparyavasānam.
+
+Due to the non-existence (nāstitvāt) of mind-obstruction: fearless (atrasta), gone beyond (atikrānta) inverted (viparita) defilements (kleśa), [he reaches] nirvāṇa as final-attainment (paryavasāna).
+
+---
+
+### BUDDHAS OF THE THREE TIMES
+
+Tryadhvavyavasthitāḥ sarvabuddhāḥ prajñāpāramitām āśritya anuttarāṃ samyaksaṃbodhim abhisaṃbuddhāḥ.
+
+All Buddhas established in the three times (tryadhva)—past, present, future—having relied upon prajñāpāramitā, [have] fully awakened to (abhisaṃbuddha) unsurpassed (anuttara), complete (samyak) awakening (saṃbodhi).
+
+---
+
+### MANTRA
+
+Tasmāj jñātavyaḥ prajñāpāramitāmahāmantro mahāvidyāmantro 'nuttaramantro 'samasamamantraḥ sarvaduḥkhaśamanaḥ, satyam amithyatvāt.
+
+Therefore know: the great mantra of prajñāpāramitā—mantra of great vidya (knowledge/power), unsurpassed mantra, unequaled-equal mantra, queller of all duḥkha—[is] true (satya) because of non-falsity (amithyatvāt).
+
+*Note: The term mantra here may derive from the root man- (to think) + -tra (instrumental suffix), thus "instrument of thought." The paradox asamasama (unequaled-equal) preserves the structure of simultaneous affirmation and negation found throughout the text.*
+
+Prajñāpāramitāyām ukto mantraḥ:
+
+In prajñāpāramitā is spoken this mantra:
+
+**Gate gate pāragate pārasaṃgate bodhi svāhā.**
+
+Gone (gata), gone, gone to the far shore (pāra-gata), completely gone to the far shore (pāra-saṃ-gata), awakening (bodhi), hail/swaha (svāhā).
+
+---
+
+## KEY TRANSLATION CHOICES
+
+**śūnyatā**: Retained as "emptiness" with the understanding that this denotes *absence of svabhāva* (inherent existence), not nihilistic void. The abstract noun suffix -tā indicates a quality or state, not a substance.
+
+**prajñāpāramitā**: Compound analyzed as prajñā (wisdom/understanding) + pāramitā (gone to the far shore, transcendence). Rendered untranslated as it denotes a specific perfection among the six pāramitās of the bodhisattva path.
+
+**"Form is emptiness, emptiness is form"**: Translated with eva ("itself") preserved to mark the strict identity claim. The syntax Yad X sā Y ("That which is X, that is Y") uses demonstrative pronouns to enforce co-referentiality—the same entity, differently conceived.
+
+**"Gate gate pāragate..."**: The imperative force of the mantra is preserved through the bare participles. Pāra (far shore) contrasts with avara (near shore), mapping the Buddhist soteriological geography: saṃsāra as this shore, nirvāṇa as the far shore. Svāhā—a Vedic offering-formula repurposed here.
+
+**The negations (no eye, no ear...)**: The systematic na X na Y structure follows the Abhidharma categorization of dharmas: five skandhas → twelve āyatanas → eighteen dhātus → twelve links of pratītyasamutpāda → four noble truths. This is philosophical analysis, not mystical denial.
+
+---
+
+## WHAT IS EMPHASIZED/LOST
+
+**Emphasized:**
+- The logical architecture of the negations—their systematic progression through Abhidharma categories
+- The grammatical precision of identity claims (not interdependence but strict co-referentiality)
+- The technical vocabulary of Buddhist scholasticism (dhātu, skandha, kleśa, pāramitā)
+- The text's character as philosophical argumentation (sūtra) rather than devotional verse
+
+**Lost:**
+- The incantatory rhythm of the Sanskrit—the mantra especially loses its sonic power when parsed grammatically
+- The accessibility of vernacular translations—this requires the reader to engage with Buddhist technical vocabulary
+- Some connotations of terms like svāhā (which carries Vedic sacrificial resonance untranslatable in English)
+- The performative dimension: this sūtra was likely recited in ritual contexts where philosophical precision mattered less than mnemonic structure
+
+**What remains visible:** The Heart Sūtra as a text of the Mādhyamika school, using the prajñāpāramitā literature's characteristic rhetoric of negation (prasaṅga) to dismantle the reification of dharmas that Abhidharma analysis risked producing.

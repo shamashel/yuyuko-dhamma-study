@@ -1,0 +1,198 @@
+# The Heart of the Perfection of Wisdom
+## A Madhyamaka Translation
+
+---
+
+## TRANSLATION APPROACH
+
+This translation treats the Heart Sutra as a sustained philosophical argument within the Madhyamaka tradition, specifically Nāgārjuna's dialectical method. The text is not making metaphysical claims about what "exists" or "doesn't exist"—it is demonstrating the impossibility of svabhāva (inherent, self-existent nature). Every negation targets essentialism, not functionality. The paradoxes are prasaṅga-style consequences: accepting inherent existence leads to contradiction, therefore inherent existence must be abandoned.
+
+---
+
+## FULL TRANSLATION
+
+### TITLE
+
+**The Heart of the Perfection of Wisdom**
+*(Prajñāpāramitā-hṛdaya)*
+
+---
+
+### AVALOKITESHVARA
+
+Avalokiteśvara, the Bodhisattva of Compassion, coursed in the deep Perfection of Wisdom when he perceived: the five skandhas are empty of inherent existence (svabhāva), and in this perception, all suffering was transcended.
+
+---
+
+### FORM_EMPTINESS
+
+Here, Śāriputra: Form is empty; emptiness is form. Emptiness is not other than form, form is not other than emptiness. Whatever is form—that is emptiness. Whatever is emptiness—that is form.
+
+---
+
+### FIVE_SKANDHAS
+
+The same holds for sensation, perception, formations, and consciousness.
+
+---
+
+### ŚĀRIPUTRA
+
+Therefore, Śāriputra, all dharmas are empty of svabhāva. They do not arise from themselves, nor from another, nor from both, nor from no cause. Thus: not arising, not ceasing; not defiled, not pure; not increasing, not decreasing.
+
+---
+
+### NEGATION
+
+Therefore, in emptiness:
+
+There is no inherently existing form, no inherently existing sensation, no inherently existing perception, no inherently existing formations, no inherently existing consciousness.
+
+No inherently existing eye, no inherently existing ear, no inherently existing nose, no inherently existing tongue, no inherently existing body, no inherently existing mind.
+
+No inherently existing visible form, no inherently existing sound, no inherently existing smell, no inherently existing taste, no inherently existing touch, no inherently existing mental objects.
+
+No inherently existing eye-element, and so on, up to no inherently existing mind-element...
+
+No inherently existing ignorance, no extinction of inherently existing ignorance; and so on, up to no inherently existing decay and death, no extinction of inherently existing decay and death.
+
+No inherently existing suffering, no inherently existing origin of suffering, no inherently existing cessation, no inherently existing path.
+
+No inherently existing wisdom, no inherently existing attainment, no inherently existing non-attainment.
+
+---
+
+### NO ATTAINMENT
+
+Therefore, Śāriputra, because there is nothing inherently to attain, Bodhisattvas dwell in Prajñāpāramitā. Their minds are without obstruction—because obstruction would require inherent existence.
+
+---
+
+### LIBERATION
+
+Without obstruction, there is no fear. Having passed far beyond confused imagination (viparyāsa), they reach final Nirvāṇa.
+
+---
+
+### BUDDHAS
+
+All Buddhas of the three times—past, present, and future—attain anuttara-samyak-saṃbodhi, unsurpassed perfect complete awakening, by relying on this Prajñāpāramitā.
+
+---
+
+### MANTRA
+
+Therefore, know this: the mantra of Prajñāpāramitā, the mantra of great wisdom, the unsurpassed mantra, the unequaled mantra, the mantra that entirely pacifies all suffering—this is true, not false.
+
+**Gate gate pāragate pārasaṃgate bodhi svāhā.**
+
+*[Gone, gone, gone beyond, gone completely beyond—awakening, hail!]*
+
+---
+
+## KEY TRANSLATION CHOICES
+
+### śūnyatā
+**Translated as:** "empty of inherent existence (svabhāva)"
+
+**Reasoning:** The Sanskrit śūnyatā is grammatically an abstraction from śūnya ("empty"), which presupposes something that is empty OF something. Nāgārjuna's Mulamadhyamakakarika makes clear: emptiness is not a metaphysical "nothingness" but the lack of svabhāva—independent, self-established, inherent existence. To translate simply as "emptiness" risks nihilistic misreading. I use "empty of inherent existence" to make the philosophical content explicit.
+
+---
+
+### prajñāpāramitā
+**Translated as:** "Perfection of Wisdom" (with sustained philosophical analysis)
+
+**Reasoning:** Prajñā is not merely "wisdom" in the conventional sense but the direct, non-conceptual cognition of emptiness. Pāramitā means "gone to the far shore" or "perfection/transcendence." Together, this is the wisdom that realizes emptiness and thereby transcends samsara. I preserve the standard translation but emphasize its epistemic function: it is the cognitive capacity that sees through svabhāva-based conceptual proliferation (prapañca).
+
+---
+
+### "Form is emptiness, emptiness is form"
+**Rendered as:** "Form is empty; emptiness is form. Emptiness is not other than form, form is not other than emptiness."
+
+**Philosophical unpacking:** This is not a mystical identity statement. It is a refutation of two extremes:
+- **Reification (sāmaṇya):** Form does not inherently exist ("form is empty")
+- **Nihilism (uccheda):** Emptiness is not separate from form—emptiness IS form's lack of svabhāva
+
+Nāgārjuna's tetralemma (MMK 15.10) applies: one cannot say "form exists," "form does not exist," "form both exists and does not exist," or "form neither exists nor does not exist"—all four presuppose svabhāva. The identity formula collapses this tetralemma by showing that emptiness and form are conceptually distinct but ontologically non-dual: to say "form is empty" IS to describe form correctly.
+
+---
+
+### "Gate gate pāragate pārasaṃgate bodhi svāhā"
+**Rendered as:** "Gone, gone, gone beyond, gone completely beyond—awakening, hail!"
+
+**Reasoning:** This is not a magical incantation in the sense of thaumaturgy; it is a performative summary of the soteriological trajectory.
+- **gate (×2):** Gone from samsara (the first "gone" is initial renunciation; the second is sustained practice)
+- **pāragate:** Gone to the far shore (transcended conceptual extremes)
+- **pārasaṃgate:** Gone completely beyond (even the concept of "far shore" is abandoned—no inherently existing nirvana)
+- **bodhi:** Awakening (the non-dual wisdom)
+- **svāhā:** "Hail" or "so be it"—a performative seal
+
+The repetition enacts the progressive negation that the sutra performs intellectually: first negation of inherent existence, then negation of the negation, then recognition that even "nirvana" lacks svabhāva.
+
+---
+
+### The negations (no eye, no ear...)
+**Approach:** Insert "inherently existing" before each negated term.
+
+**Reasoning:** The Sanskrit na cakṣur ("no eye") is deliberately ambiguous. A nihilist reads: "there is no eye at all." A Madhyamika reads: "there is no inherently existing eye." The difference is crucial:
+- Eyes function conventionally (vyavahāra) — you can see
+- Eyes lack svabhāva (paramārtha) — they do not exist independently, from their own side, essentially
+
+By inserting "inherently existing," I make explicit what Nāgārjuna's commentarial tradition confirms: the negations are prasaṅga-style refutations, not ontological denials. The eye works; it just doesn't exist the way reification (svabhāva-dṛṣṭi) claims it does.
+
+---
+
+## WHAT IS EMPHASIZED/LOST
+
+### What Is Emphasized
+
+**1. The epistemic nature of the text**
+This translation presents the Heart Sutra as a philosophical argument about cognition, not a mystical revelation. The key operation is seeing-through (vipaśyanā) conceptual reification. The goal is not to "become one with emptiness" but to stop falsely superimposing svabhāva onto dependently arisen phenomena.
+
+**2. The Two Truths framework**
+By specifying "inherently existing" throughout, the translation activates the Two Truths (satyadvaya) distinction:
+- **Conventional truth (saṃvṛti-satya):** Eyes exist, function, see
+- **Ultimate truth (paramārtha-satya):** Eyes lack svabhāva
+
+The sutra's negations operate at the ultimate level without denying the conventional. This prevents nihilistic misreading.
+
+**3. The soteriological mechanism**
+The text becomes a manual for de-reification. Each negation targets a specific form of grasping:
+- Five skandhas: grasping at personal identity
+- Twelve ayatanas: grasping at sensory experience as inherently real
+- Eighteen dhātus: grasping at cognitive processes
+- Twelve nidānas: grasping at temporal continuity
+- Four Noble Truths: grasping at the path as inherently existent
+
+The climax—"no wisdom, no attainment"—even empties out the soteriology itself. This is Nāgārjuna's radical emptiness: even liberation is empty of inherent existence.
+
+**4. The prasaṅga method**
+The translation emphasizes the consequential, dialectical nature of the argument. The negations are not dogmatic assertions but reductions to absurdity: "IF you accept svabhāva, THEN you must accept these contradictions." The conclusion is not "nothing exists" but "svabhāva is incoherent."
+
+---
+
+### What Might Be Obscured
+
+**1. The liturgical/meditative function**
+The Heart Sutra is chanted daily in Mahayana monasteries worldwide. My philosophical translation sacrifices rhythmic cadence and sonic resonance. "No inherently existing eye, no inherently existing ear" is clunky compared to "no eye, no ear, no nose, no tongue." The mantra, stripped of its phonemic power, becomes explanatory rather than evocative.
+
+**2. The aesthetic of paradox**
+The original's "form is emptiness, emptiness is form" is deliberately cryptic—it provokes sustained contemplation. My unpacking—"Emptiness is not other than form, form is not other than emptiness"—resolves the paradox too cleanly. The koan-like quality that drives meditation is diminished.
+
+**3. The bodhisattva context**
+By emphasizing philosophy, I may understate the ethical dimension. The text is addressed to Śāriputra (representing Abhidharma essentialism) by Avalokiteśvara (the bodhisattva of compassion). The Perfection of Wisdom is not just correct view—it is what enables bodhicitta, the altruistic aspiration. The philosophical precision might obscure that this wisdom is in service of liberating all beings.
+
+**4. The historical contingency**
+The Heart Sutra is a product of 1st–6th century CE Indian Mahayana, engaging with Sarvastivada Abhidharma, Pudgalavada personalism, and emerging tantric elements. My translation treats it as ahistorical philosophy, potentially masking the polemical context—the specific Buddhist schools Nāgārjuna and the Prajñāpāramitā literature were arguing against.
+
+**5. The ineffability of direct realization**
+Madhyamaka philosophy points toward a realization that cannot be conceptually captured. By conceptually specifying "inherent existence" at every turn, my translation may give the impression that understanding the argument IS the realization. Nāgārjuna would disagree: intellectual comprehension of emptiness is not the same as direct, non-conceptual cognition (nirvikalpa-jñāna). The translation risks substituting philosophy for prajñā.
+
+---
+
+## CONCLUSION
+
+This translation attempts to render the Heart Sutra as Nāgārjuna might have read it: a rigorous philosophical demonstration that svabhāva is incoherent, that dependent origination (pratītyasamutpāda) IS emptiness (śūnyatā), and that this emptiness is itself empty (śūnyatā-śūnyatā). It is an argument, not an incantation—a dialectical destruction of essentialism that leaves conventional functionality intact. Whether this precision illuminates or sterilizes depends on the reader's purposes.
+
+*"I prostrate to the Perfection of Wisdom, the Noble Mother of the Bodhisattvas, the destroyer of all views."*
+—Nāgārjuna, opening verse to the Mulamadhyamakakarika
